@@ -1,6 +1,6 @@
 ## Hi, I'm Steven Kustov 👋
 
-<p><em>Software Engineer @ <a href="https://l3harris.com/">L3Harris
+<p><em>Software Engineer @<a href="https://l3harris.com/" target="_blank" >L3Harris
 
 [![LinkedIn](https://img.shields.io/badge/StevenKustov-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/votsuk/)
 <br />
@@ -30,7 +30,7 @@
       <tr>
         <td width="50%" style="border: none !important;">
         <div align="center" width="100%">
-          <a href="https://github.com/jeffreyc86">
+          <a href="https://github.com/votsuk">
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=votsuk&hide=ruby&layout=compact&hide_border=true&langs_count=6" alt="Steven's Language Stats" vertical-align="middle"/>
           </a>
         </div>
@@ -38,7 +38,7 @@
         <td width="50%" style="border: none !important;">
         <div align="center" width="100%">
           <a href="https://github.com/votsuk">
-            <!-- <img src="https://awesome-github-stats.azurewebsites.net/user-stats/jeffreyc86?cardType=github&theme=github" alt="Jeffrey's GitHub Stats" /> -->
+            <img src="https://awesome-github-stats.azurewebsites.net/user-stats/votsuk?cardType=github&theme=github" alt="Steven's GitHub Stats" />
             <img src="https://github-readme-stats.vercel.app/api?username=votsuk&show_icons=true&hide=stars&hide_border=true" alt="Steven's GitHub Stats" vertical-align="middle"/>
           </a>
         </div>
