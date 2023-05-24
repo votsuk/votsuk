@@ -38,17 +38,17 @@
     <tbody>
       <tr>
         <td width="50%" style="border: none !important;">
-        <div align="center" width="100%">
+<!--         <div align="center" width="100%">
           <a href="https://github.com/votsuk">
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=votsuk&hide=ruby&layout=compact&hide_border=true&langs_count=6" alt="Steven's Language Stats" vertical-align="middle"/>
           </a>
-        </div>
+        </div> -->
         </td>
         <td width="50%" style="border: none !important;">
         <div align="center" width="100%">
           <a href="https://github.com/votsuk">
             <img src="https://awesome-github-stats.azurewebsites.net/user-stats/votsuk?cardType=github&theme=github" alt="Steven's GitHub Stats" />
-            <img src="https://github-readme-stats.vercel.app/api?username=votsuk&show_icons=true&hide=stars&hide_border=true" alt="Steven's GitHub Stats" vertical-align="middle"/>
+<!--             <img src="https://github-readme-stats.vercel.app/api?username=votsuk&show_icons=true&hide=stars&hide_border=true" alt="Steven's GitHub Stats" vertical-align="middle"/> -->
           </a>
         </div>
         </td>
