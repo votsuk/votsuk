@@ -5,12 +5,11 @@
 <a href="https://stevenkustov.com/" target="_blank">
 <img src="https://img.shields.io/badge/check%20out%20my%20Portfolio-042549?style=for-the-badge&logo=moleculer&logoColor=white" alt="portfolio" />
 </a>
-<br />
 <a href="https://www.linkedin.com/in/votsuk/" target="_blank">
 <img src="https://img.shields.io/badge/StevenKustov-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
 </a>
 <br />
-[![GitHub votsuk](https://img.shields.io/github/followers/votsuk?label=follow&style=social)](https://github.com/votsuk)
+  <img src="https://img.shields.io/github/followers/votsuk?label=follow&style=social" alt="github followers" />
 
 ### Languages, Tools, and Skills 🛠
 
