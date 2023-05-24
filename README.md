@@ -9,9 +9,8 @@
 <a href="https://www.linkedin.com/in/votsuk/" target="_blank">
 <img src="https://img.shields.io/badge/StevenKustov-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
 </a>
-<br />
+<br /><br />
 <img src="https://img.shields.io/github/followers/votsuk?label=follow&style=social" alt="github followers" />
-<br />
 <br />
 <img src="https://komarev.com/ghpvc/?username=votsuk&label=Profile+Views" alt="profile visits" />
 </div>
