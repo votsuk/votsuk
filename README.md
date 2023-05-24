@@ -20,7 +20,4 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-
-<div align='center'>
-  ![](https://komarev.com/ghpvc/?username=votsuk&label=Profile+Views)
-</div>
+![](https://komarev.com/ghpvc/?username=votsuk&label=Profile+Views)
