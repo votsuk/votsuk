@@ -1,8 +1,9 @@
 ## Hi, I'm Steven Kustov 👋
-<img src="https://img.shields.io/github/followers/votsuk?label=follow&style=social" alt="github followers" />
-<img src="https://komarev.com/ghpvc/?username=votsuk&label=Profile+Views" alt="profile visits" />
 
 <p><em>Software Engineer @<a href="https://l3harris.com/" target="_blank" >L3Harris
+  
+<img src="https://img.shields.io/github/followers/votsuk?label=follow&style=social" alt="github followers" />
+<img src="https://komarev.com/ghpvc/?username=votsuk&label=Profile+Views" alt="profile visits" />
 <br /><br />
 <a href="https://stevenkustov.com/" target="_blank">
 <img src="https://img.shields.io/badge/check%20out%20my%20Portfolio-042549?style=for-the-badge&logo=moleculer&logoColor=white" alt="portfolio" />
