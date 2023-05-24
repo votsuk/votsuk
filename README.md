@@ -21,5 +21,30 @@
 <img src='https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white' alt='git' />
 <img src='https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white' alt='tailwindcss' />
 </div>
+  
+### GitHub Stats 📈
+<div align="center">
+  <table width="100%">
+    <tbody>
+      <tr>
+        <td width="50%" style="border: none !important;">
+        <div align="center" width="100%">
+          <a href="https://github.com/jeffreyc86">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=votsuk&hide=ruby&layout=compact&hide_border=true&langs_count=6" alt="Steven's Language Stats" vertical-align="middle"/>
+          </a>
+        </div>
+        </td>
+        <td width="50%" style="border: none !important;">
+        <div align="center" width="100%">
+          <a href="https://github.com/votsuk">
+            <!-- <img src="https://awesome-github-stats.azurewebsites.net/user-stats/jeffreyc86?cardType=github&theme=github" alt="Jeffrey's GitHub Stats" /> -->
+            <img src="https://github-readme-stats.vercel.app/api?username=votsuk&show_icons=true&hide=stars&hide_border=true" alt="Steven's GitHub Stats" vertical-align="middle"/>
+          </a>
+        </div>
+        </td>
+      </tr>
+    </tbody>
+  <table>
+<div>
 
 ![](https://komarev.com/ghpvc/?username=votsuk&label=Profile+Views)
