@@ -16,8 +16,6 @@
 </div>
 
 ### Languages, Tools, and Skills 🛠
-
-<div>
 <img src='https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white' alt='typescript' />
 <img src='https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E' alt='javascript' />
 <img src='https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB' alt='react' />
@@ -30,29 +28,3 @@
 <img src='https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white' alt='java' />
 <img src='https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white' alt='git' />
 <img src='https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white' alt='tailwindcss' />
-</div>
-  
-### GitHub Stats 📈
-<div>
-  <table width="100%">
-    <tbody>
-      <tr>
-<!--         <td width="50%" style="border: none !important;">
-        <div align="center" width="100%">
-          <a href="https://github.com/votsuk">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=votsuk&hide=ruby&layout=compact&hide_border=true&langs_count=6" alt="Steven's Language Stats" vertical-align="middle"/>
-          </a>
-        </div>
-        </td> -->
-        <td width="50%" style="border: none !important;">
-        <div align="center" width="100%">
-          <a href="https://github.com/votsuk">
-            <img src="https://awesome-github-stats.azurewebsites.net/user-stats/votsuk?cardType=github&theme=github" alt="Steven's GitHub Stats" />
-<!--             <img src="https://github-readme-stats.vercel.app/api?username=votsuk&show_icons=true&hide=stars&hide_border=true" alt="Steven's GitHub Stats" vertical-align="middle"/> -->
-          </a>
-        </div>
-        </td>
-      </tr>
-    </tbody>
-  <table>
-<div>
