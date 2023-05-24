@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![votsuk's GitHub stats](https://github-readme-stats.vercel.app/api?username=votsuk)](https://github.com/votsuk/github-readme-stats)
+
 <!--
 **votsuk/votsuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
