@@ -4,7 +4,7 @@
 
 <div>
 <a href="https://stevenkustov.com/" target="_blank">
-<img src="https://img.shields.io/badge/check%20out%20my%20Portfolio-042549?style=for-the-badge&logo=moleculer&logoColor=white" alt="portfolio" />
+<img src="https://img.shields.io/badge/My%20Website-042549?style=for-the-badge&logo=moleculer&logoColor=white" alt="portfolio" />
 </a>
 <a href="https://www.linkedin.com/in/votsuk/" target="_blank">
 <img src="https://img.shields.io/badge/StevenKustov-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
