@@ -3,8 +3,6 @@
 <p><em>Software Engineer @<a href="https://l3harris.com/" target="_blank" >L3Harris
 
 <div>
-<img src="https://img.shields.io/github/followers/votsuk?label=follow&style=social" alt="github followers" />
-<img src="https://komarev.com/ghpvc/?username=votsuk&label=Profile+Views" alt="profile visits" />
 <br /><br />
 <a href="https://stevenkustov.com/" target="_blank">
 <img src="https://img.shields.io/badge/check%20out%20my%20Portfolio-042549?style=for-the-badge&logo=moleculer&logoColor=white" alt="portfolio" />
@@ -13,6 +11,9 @@
 <img src="https://img.shields.io/badge/StevenKustov-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
 </a>
 <br />
+<img src="https://img.shields.io/github/followers/votsuk?label=follow&style=social" alt="github followers" />
+<br />
+<img src="https://komarev.com/ghpvc/?username=votsuk&label=Profile+Views" alt="profile visits" />
 </div>
 
 ### Languages, Tools, and Skills 🛠
