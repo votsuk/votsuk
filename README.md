@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![votsuk](https://img.shields.io/badge/dylan310-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/votsuk/)
+[![votsuk](https://img.shields.io/badge/votsuk-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/votsuk/)
 <!-- [![GitHub Dylan-Israel](https://img.shields.io/github/followers/Dylan-Israel?label=follow&style=social)](https://github.com/Dylan-Israel) -->
 
 <!--
