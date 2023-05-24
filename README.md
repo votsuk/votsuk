@@ -3,11 +3,12 @@
 <p><em>Software Engineer @ <a href="https://l3harris.com/">L3Harris
 
 [![LinkedIn](https://img.shields.io/badge/StevenKustov-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/votsuk/)
+<br />
 [![GitHub votsuk](https://img.shields.io/github/followers/votsuk?label=follow&style=social)](https://github.com/votsuk)
 
 ### Languages, Tools, and Skills 🛠
 
-<div align='center'>
+<div>
 <img src='https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white' alt='typescript' />
 <img src='https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E' alt='javascript' />
 <img src='https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white' alt='java' />
@@ -23,7 +24,7 @@
 </div>
   
 ### GitHub Stats 📈
-<div align="center">
+<div>
   <table width="100%">
     <tbody>
       <tr>
