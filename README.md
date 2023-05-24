@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![LinkedIn](https://img.shields.io/badge/Steven Kustov-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/votsuk/)
+[![LinkedIn](https://img.shields.io/badge/StevenKustov-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/votsuk/)
 [![GitHub votsuk](https://img.shields.io/github/followers/votsuk?label=follow&style=social)](https://github.com/votsuk)
 
 ## My Tech Stack :heavy_check_mark:
