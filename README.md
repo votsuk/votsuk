@@ -37,13 +37,13 @@
   <table width="100%">
     <tbody>
       <tr>
-        <td width="50%" style="border: none !important;">
-<!--         <div align="center" width="100%">
+<!--         <td width="50%" style="border: none !important;">
+        <div align="center" width="100%">
           <a href="https://github.com/votsuk">
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=votsuk&hide=ruby&layout=compact&hide_border=true&langs_count=6" alt="Steven's Language Stats" vertical-align="middle"/>
           </a>
-        </div> -->
-        </td>
+        </div>
+        </td> -->
         <td width="50%" style="border: none !important;">
         <div align="center" width="100%">
           <a href="https://github.com/votsuk">
