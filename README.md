@@ -1,12 +1,14 @@
 ## Hi, I'm Steven Kustov 👋
 
 <p><em>Software Engineer @<a href="https://l3harris.com/" target="_blank" >L3Harris
-<br />
+<br /><br />
 <a href="https://stevenkustov.com/" target="_blank">
 <img src="https://img.shields.io/badge/check%20out%20my%20Portfolio-042549?style=for-the-badge&logo=moleculer&logoColor=white" alt="portfolio" />
 </a>
 <br />
-[![LinkedIn](https://img.shields.io/badge/StevenKustov-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/votsuk/)
+<a href="https://www.linkedin.com/in/votsuk/" target="_blank">
+<img src="https://img.shields.io/badge/StevenKustov-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+</a>
 <br />
 [![GitHub votsuk](https://img.shields.io/github/followers/votsuk?label=follow&style=social)](https://github.com/votsuk)
 
