@@ -1,7 +1,8 @@
 ## Hi, I'm Steven Kustov 👋
 
 <p><em>Software Engineer @<a href="https://l3harris.com/" target="_blank" >L3Harris
-  
+
+<div>
 <img src="https://img.shields.io/github/followers/votsuk?label=follow&style=social" alt="github followers" />
 <img src="https://komarev.com/ghpvc/?username=votsuk&label=Profile+Views" alt="profile visits" />
 <br /><br />
@@ -12,6 +13,7 @@
 <img src="https://img.shields.io/badge/StevenKustov-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
 </a>
 <br />
+</div>
 
 ### Languages, Tools, and Skills 🛠
 
